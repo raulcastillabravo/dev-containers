@@ -22,6 +22,8 @@
 				"ms-azuretools.vscode-docker",
 				"ionutvmi.path-autocomplete",
 				"ms-toolsai.jupyter",
+				"ms-python.black-formatter",
+				"ms-python.isort",
 			]
 		}
 	},
