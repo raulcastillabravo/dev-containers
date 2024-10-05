@@ -20,7 +20,8 @@
 			"extensions": [
 				"ms-python.python@2024.14.1",
 				"ms-azuretools.vscode-docker",
-				"ionutvmi.path-autocomplete"
+				"ionutvmi.path-autocomplete",
+				"ms-toolsai.jupyter",
 			]
 		}
 	},
